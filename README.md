@@ -1,1 +1,1 @@
-# 1.Django-Building-A-Blog-Application
+# Django-Building-A-Blog-Application
